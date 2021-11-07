@@ -16,12 +16,12 @@ AKN is a material testing laboratory that focuses on water quality tests and cla
 
 ## Objectives
 
-1- Specified the water is drinkable or not drinkable.
-2- Web app which evaluates if water is safe for human consumption.
+* Specified the water is drinkable or not drinkable.
+* Create website which identify if water is safe for human consumption.
 
 
 
-## Web App
+## Website
 Our website to evaluate if water is safe or not.
 
 
