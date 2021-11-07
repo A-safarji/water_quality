@@ -1,4 +1,5 @@
 # Water Quality Prediction Classification (ML/AI)
+###  ![#0000FF](https://via.placeholder.com/15/0000FF/000000?text=+) Water Quality Project(3)
 
 The goal of the project is to classify the water usage (potable or not) based on chemical and physical properties. To be more specific the goal is to classify if the water is potable without misclassifying not safe to potable this is why we used precision as our metric for the project.
 
@@ -11,7 +12,7 @@ The goal of the project is to classify the water usage (potable or not) based on
 ## General info
 AKN is a material testing laboratory that focuses on water quality tests and classification. Our next step, to expand the business research and development that to start a project to automate the water classification process. Access to safe drinking-water is essential to health, a basic human right and a component of effective policy for health protection.
 
-###  ![#0000FF](https://via.placeholder.com/15/0000FF/000000?text=+) Water Quality Project(3)
+
 
 ## Objectives
 
