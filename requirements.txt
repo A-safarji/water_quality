@@ -1,0 +1,12 @@
+altair
+pandas
+streamlit 
+matplotlib
+numpy
+scikit-learn==0.23.2
+shap
+numpy
+pathlib 
+xgboost
+pycaret
+
