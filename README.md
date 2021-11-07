@@ -22,8 +22,8 @@ AKN is a material testing laboratory that focuses on water quality tests and cla
 
 
 ## Website
-Our website to evaluate if water is safe or not.
+Our website to evaluate if water has quality or not.
+* [AKN Water Quality](https://share.streamlit.io/a-safarji/streamlit/app.py) - feel free to contact us!
 
-
-* https://share.streamlit.io/a-safarji/streamlit/app.py
-
+## Status
+Project is: ![##c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) _done_
