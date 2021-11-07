@@ -13,7 +13,16 @@ AKN is a material testing laboratory that focuses on water quality tests and cla
 
 ###  ![#0000FF](https://via.placeholder.com/15/0000FF/000000?text=+) Water Quality Project(3)
 
+## Objectives
 
+1- Specified the water is drinkable or not drinkable.
+2- Web app which evaluates if water is safe for human consumption.
+
+
+
+## Web App
 Our website to evaluate if water is safe or not.
+
+
 * https://share.streamlit.io/a-safarji/streamlit/app.py
 
